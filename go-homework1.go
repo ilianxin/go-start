@@ -24,6 +24,7 @@ func singleNumber(nums []int) int {
 		}
 	}
 	return answer
+
 }
 
 func isPalindrome(x int) bool {
